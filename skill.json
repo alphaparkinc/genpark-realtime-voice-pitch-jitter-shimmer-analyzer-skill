@@ -1,0 +1,12 @@
+{
+  "name": "genpark-realtime-voice-pitch-jitter-shimmer-analyzer-skill",
+  "version": "1.0.0",
+  "description": "Realtime vocal biomarker DSP analyzing fundamental pitch F0, jitter perturbation, and shimmer amplitude stability",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["voice-biomarkers", "pitch-f0", "jitter", "shimmer", "vocal-dsp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
